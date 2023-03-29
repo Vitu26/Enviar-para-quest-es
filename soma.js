@@ -6,3 +6,6 @@ while (K < INDICE) {
 }
 
 console.log(SOMA);
+
+
+//o valor da soma no console será de 91
